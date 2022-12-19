@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://es.linkedin.com/in/alvaro-puche-garcia-764886185?trk=people-guest_people_search-card](https://es.linkedin.com/in/alvaro-puche-garcia-764886185?trk=people-guest_people_search-card)
 
-##;)##
+- <h3> ;) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
