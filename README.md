@@ -15,7 +15,7 @@
 
  <h3 align="center"> ;) </h3>
 
-<summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="">
+<div align="center"><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
