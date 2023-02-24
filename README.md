@@ -1,10 +1,3 @@
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
 <h1 align="center">Hi 👋, I'm C0C05</h1>
 <h3 align="center">Passionate Cybersecurity student</h3>
 
@@ -32,3 +25,4 @@ with:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0c05&show_icons=true&locale=en&layout=compact" alt="c0c05" /></p>
 
+<details><summary>Half year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></details>
