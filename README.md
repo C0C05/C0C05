@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0c05&label=Profile%20views&color=0e75b6&style=flat" alt="c0c05" /> </p>
 
-- 🔭 I’m currently working on [my blog](https://github.com/C0C05/C0C05.github.io)
-
 - 🌱 I’m currently learning **CECETI: Curso de Especialización en Ciberseguridad y Entornos de la Información**
 
 - 👨‍💻 All of my projects are available at [https://github.com/C0C05](https://github.com/C0C05)
